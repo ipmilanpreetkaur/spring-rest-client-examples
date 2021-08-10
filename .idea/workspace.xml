@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59f062a4-a112-40da-af0c-1becba147e2e" name="Default Changelist" comment="rest Template">
-      <change afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/springrestclientexamples/controllers/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/userlist.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/guru/springframework/springrestclientexamples/controllers/UserControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="59f062a4-a112-40da-af0c-1becba147e2e" name="Default Changelist" comment="uircomponentbuilder">
+      <change afterPath="$PROJECT_DIR$/src/test/java/guru/springframework/springrestclientexamples/RestTemplateExamples.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1628587550154</updated>
-      <workItem from="1628587552930" duration="1021000" />
+      <workItem from="1628587552930" duration="1352000" />
     </task>
     <task id="LOCAL-00001" summary="data model">
       <created>1628587899714</created>
@@ -88,7 +84,21 @@
       <option name="project" value="LOCAL" />
       <updated>1628588034263</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="webflux-thymeleaf">
+      <created>1628588829293</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1628588829293</updated>
+    </task>
+    <task id="LOCAL-00004" summary="uircomponentbuilder">
+      <created>1628588925698</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1628588925698</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +119,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="data model" />
     <MESSAGE value="rest Template" />
-    <option name="LAST_COMMIT_MESSAGE" value="rest Template" />
+    <MESSAGE value="webflux-thymeleaf" />
+    <MESSAGE value="uircomponentbuilder" />
+    <option name="LAST_COMMIT_MESSAGE" value="uircomponentbuilder" />
   </component>
 </project>
